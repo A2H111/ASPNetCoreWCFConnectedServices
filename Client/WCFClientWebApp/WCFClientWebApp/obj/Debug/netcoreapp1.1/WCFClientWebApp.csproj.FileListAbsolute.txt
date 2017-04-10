@@ -1,0 +1,14 @@
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\obj\Debug\netcoreapp1.1\WCFClientWebApp.csprojResolveAssemblyReference.cache
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\obj\Debug\netcoreapp1.1\WCFClientWebApp.AssemblyInfo.cs
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\obj\Debug\netcoreapp1.1\WCFClientWebApp.dll
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\obj\Debug\netcoreapp1.1\WCFClientWebApp.pdb
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\WCFClientWebApp.deps.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\WCFClientWebApp.runtimeconfig.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\WCFClientWebApp.runtimeconfig.dev.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\WCFClientWebApp.dll
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\WCFClientWebApp.pdb
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\Debug\netcoreapp1.1\WCFClientWebApp.deps.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\Debug\netcoreapp1.1\WCFClientWebApp.runtimeconfig.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\Debug\netcoreapp1.1\WCFClientWebApp.runtimeconfig.dev.json
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\Debug\netcoreapp1.1\WCFClientWebApp.dll
+D:\My Learning\ASPNetCoreWCF\Client\WCFClientWebApp\WCFClientWebApp\bin\Debug\netcoreapp1.1\WCFClientWebApp.pdb

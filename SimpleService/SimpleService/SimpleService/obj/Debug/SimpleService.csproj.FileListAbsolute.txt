@@ -1,0 +1,6 @@
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\bin\SimpleService.dll.config
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\bin\SimpleService.dll
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\bin\SimpleService.pdb
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\obj\Debug\SimpleService.dll
+D:\My Learning\ASPNetCoreWCF\SimpleService\SimpleService\SimpleService\obj\Debug\SimpleService.pdb
